@@ -1,0 +1,46 @@
+{"SQL" : [{
+  "host":"192.168.2.214",
+  "user":"jgw",
+  "password":"Jgw*31500-2018.6",
+  "database": "hydra_digital_village",
+  "port": 3306
+}]
+,"cookie_info": [
+  {
+    "url": "http://system.nine.kf315.net/",
+    "account": "13000000098",
+    "password": "123456q"
+  }]
+  ,"IP_info":[
+    {
+      "IP": "http://192.168.20.220:7071",
+      "org_id": "",
+      "sys_id": ""
+    }
+  ],
+  "excel_info": [
+    {
+      "excel_file": "C:/Users/Dell/Desktop/接口自动化测试用例.xlsx",
+      "sheetname": "一村一码"
+    }
+  ],
+  "SZXC": [
+    {
+      "login_url": "http://system.nine.kf315.net/apiInterface/user/web/login",
+      "account": "13000000098",
+      "password": "aec60231d83fe6cf81444bc536596887",
+      "set_org_url": "http://system.nine.kf315.net/apiInterface/user/set/org/8137ceb00d5e40f3ac210589fa993eb6",
+      "set_sys_url": "http://system.nine.kf315.net/apiInterface/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084"
+    }
+  ],
+  "headers": [
+    {
+      "Connection": "keep-alive",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36",
+      "Accept": "application/json, text/plain, */*",
+      "Content-Type": "application/json;charset=utf-8",
+      "Cookie": "super-token="
+    }
+  ]
+
+}
